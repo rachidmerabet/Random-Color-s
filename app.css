@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(248, 223, 111);
+}
+
+h1 {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
